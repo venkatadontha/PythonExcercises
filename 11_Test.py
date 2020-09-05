@@ -1,0 +1,1 @@
+#Question 11: Write a code to extract each digit from an integer, in the reverse order
